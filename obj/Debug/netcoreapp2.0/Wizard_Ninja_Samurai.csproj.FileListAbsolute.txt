@@ -1,0 +1,11 @@
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day2/Wizard_Ninja_Samurai/obj/Debug/netcoreapp2.0/Wizard_Ninja_Samurai.csprojResolveAssemblyReference.cache
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day2/Wizard_Ninja_Samurai/obj/Debug/netcoreapp2.0/Wizard_Ninja_Samurai.csproj.CoreCompileInputs.cache
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day2/Wizard_Ninja_Samurai/obj/Debug/netcoreapp2.0/Wizard_Ninja_Samurai.AssemblyInfoInputs.cache
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day2/Wizard_Ninja_Samurai/obj/Debug/netcoreapp2.0/Wizard_Ninja_Samurai.AssemblyInfo.cs
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day2/Wizard_Ninja_Samurai/bin/Debug/netcoreapp2.0/Wizard_Ninja_Samurai.deps.json
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day2/Wizard_Ninja_Samurai/bin/Debug/netcoreapp2.0/Wizard_Ninja_Samurai.runtimeconfig.json
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day2/Wizard_Ninja_Samurai/bin/Debug/netcoreapp2.0/Wizard_Ninja_Samurai.runtimeconfig.dev.json
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day2/Wizard_Ninja_Samurai/bin/Debug/netcoreapp2.0/Wizard_Ninja_Samurai.dll
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day2/Wizard_Ninja_Samurai/bin/Debug/netcoreapp2.0/Wizard_Ninja_Samurai.pdb
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day2/Wizard_Ninja_Samurai/obj/Debug/netcoreapp2.0/Wizard_Ninja_Samurai.dll
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day2/Wizard_Ninja_Samurai/obj/Debug/netcoreapp2.0/Wizard_Ninja_Samurai.pdb
